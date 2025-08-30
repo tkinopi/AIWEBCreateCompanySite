@@ -1,0 +1,2 @@
+# AIWEBCreateCompanySite
+AIでWEBサイト作成代行を行うサイトのリポジトリ
